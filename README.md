@@ -1,9 +1,12 @@
-### 
+# Custom Animated Bottom Navigation Bar in Flutter
 [Watch on YouTube](https://youtu.be/NRLBq_Khmqs)
 [![Main](https://img.youtube.com/vi/NRLBq_Khmqs/0.jpg)](https://www.youtube.com/watch?v=NRLBq_Khmqs)
-
-# Overview
-
+## Overview
+Welcome to this GitHub repository where we will create a custom-animated Bottom Navigation Bar in Flutter from scratch! We'll use built-in widgets and classes to achieve smooth animations and a unique shape with a Custom Clipper. No external packages are needed!
+## Features
+- Smooth animations
+- Unique shape using Custom Clipper
+- Built-in Flutter widgets only
 
 ## Installation
 To get started with this repository, follow these steps:
