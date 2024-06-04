@@ -8,6 +8,9 @@ Welcome to this GitHub repository where we will create a custom-animated Bottom 
 - Unique shape using Custom Clipper
 - Built-in Flutter widgets only
 
+![h1-min](https://github.com/AmirBayat0/Flutter-Full-Custom-Bottom-Navigation-Bar/assets/91388754/31586fa5-c5b2-45da-aa24-383e623261a4)
+
+
 ## Installation
 To get started with this repository, follow these steps:
 
