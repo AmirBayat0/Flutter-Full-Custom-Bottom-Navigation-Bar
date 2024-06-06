@@ -1,6 +1,6 @@
 # Custom Animated Bottom Navigation Bar in Flutter
 
-###[Watch on YouTube](https://youtu.be/NRLBq_Khmqs)
+### [Watch on YouTube](https://youtu.be/NRLBq_Khmqs)
 [![Main](https://img.youtube.com/vi/NRLBq_Khmqs/0.jpg)](https://www.youtube.com/watch?v=NRLBq_Khmqs)
 
 ## Overview
